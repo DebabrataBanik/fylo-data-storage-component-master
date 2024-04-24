@@ -45,9 +45,11 @@ body{
   align-items: center;
   justify-content: center;
   width: 50px;
+  border: none;
   aspect-ratio: 1;
   background-color: var(--clr-very-dark-blue);
   border-radius: 10px;
+  cursor: pointer;
 }
 
 .second-container{
